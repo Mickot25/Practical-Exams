@@ -1,6 +1,6 @@
 //Calculate the Total Area of Right Cylinder.
 //Given the Radius and Altitude from the user.
-//Result is manipulated to have 10 width. fixed-notation. right justified. 
+//Display result with 10 width, fixed and right justified.
 
 #include <iostream>
 #include <conio.h>
