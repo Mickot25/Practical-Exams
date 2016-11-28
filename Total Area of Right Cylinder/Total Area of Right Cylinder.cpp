@@ -15,7 +15,7 @@ int main()
 	cout << "Input the radius: "; cin >> r;
 	cout << "Input the altitude: "; cin >> a;
 
-	cout << setw(10) << fixed << right << (2.0*pi*r*a) + (2 * pi * pow(r, 2.0)) << endl;
+	cout << setw(10) << fixed << right << (2.0*pi*r*a) + (2.0 * pi * pow(r, 2.0)) << endl;
 
 	_getch();
 	return 0;
